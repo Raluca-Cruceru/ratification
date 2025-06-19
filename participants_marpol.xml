@@ -3,42 +3,43 @@
   <Treaty>
     <Participants>
       <Table>
-        <Thead />
+        <Thead/>
         <Tbody>
           <Rows is_array="true">
             <Row>
-              <Entry>Albania (accession) 19 November</Entry>
-              <Entry doc="Entry into force date" />
-              <Entry doc="Date of joining">19 Feb 2021</Entry>
+              <Entry>Albania</Entry>
+              <Entry doc="Entry into force date">19 Feb 2021</Entry>
+              <Entry doc="Date of joining">19 Nov 2020</Entry>
               <Entry>Party</Entry>
             </Row>
             <Row>
-              <Entry>Antigua and Barbuda (accession) 10 July</Entry>
-              <Entry doc="Entry into force date" />
-              <Entry doc="Date of joining">10 Oct 2007</Entry>
+              <Entry>Antigua and Barbuda</Entry>
+              <Entry doc="Entry into force date">10 Oct 2007</Entry>
+              <Entry doc="Date of joining">10 Jul 2007</Entry>
               <Entry>Party</Entry>
             </Row>
             <Row>
-              <Entry>Argentina (accession) 8 June</Entry>
-              <Entry doc="Entry into force date" />
-              <Entry doc="Date of joining">08 Sep 2021</Entry>
+              <Entry>Argentina</Entry>
+              <Entry doc="Entry into force date">08 Sep 2021</Entry>
+              <Entry doc="Date of joining">08 Jun 2021</Entry>
               <Entry>Party</Entry>
             </Row>
             <Row>
-              <Entry>Australia (accession) 7 August</Entry>
-              <Entry doc="Entry into force date" />
-              <Entry doc="Date of joining">07 Nov 2007</Entry>
-              <Entry>Party</Entry></Row>
-            <Row>
-              <Entry>Azerbaijan (accession) 16 July</Entry>
-              <Entry doc="Entry into force date" />
-              <Entry doc="Date of joining">19 May 2005</Entry>
+              <Entry>Australia</Entry>
+              <Entry doc="Entry into force date">07 Nov 2007</Entry>
+              <Entry doc="Date of joining">07 Aug 2007</Entry>
               <Entry>Party</Entry>
             </Row>
             <Row>
-              <Entry>Bahamas (accession) 8 November</Entry>
-              <Entry doc="Entry into force date" />
-              <Entry doc="Date of joining">19 May 2005</Entry>
+              <Entry>Azerbaijan</Entry>
+              <Entry doc="Entry into force date">19 May 2005</Entry>
+              <Entry doc="Date of joining">16 Jul 2004</Entry>
+              <Entry>Party</Entry>
+            </Row>
+            <Row>
+              <Entry>Bahamas</Entry>
+              <Entry doc="Entry into force date">19 May 2005</Entry>
+              <Entry doc="Date of joining">08 Nov 2001</Entry>
               <Entry>Party</Entry>
             </Row>
           </Rows>
