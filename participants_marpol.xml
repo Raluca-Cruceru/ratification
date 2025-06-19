@@ -12,4 +12,38 @@
               <Entry doc="Date of joining">19 Feb 2021</Entry>
               <Entry>Party</Entry>
             </Row>
-            <Row><Entry>Antigua and Barbuda (accession) 10 July</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">10 Oct 2007</Entry><Entry>Party</Entry></Row><Row><Entry>Argentina (accession) 8 June</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">08 Sep 2021</Entry><Entry>Party</Entry></Row><Row><Entry>Australia (accession) 7 August</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">07 Nov 2007</Entry><Entry>Party</Entry></Row><Row><Entry>Azerbaijan (accession) 16 July</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">19 May 2005</Entry><Entry>Party</Entry></Row><Row><Entry>Bahamas (accession) 8 November</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">19 May 2005</Entry><Entry>Party</Entry></Row><Row><Entry>Bangladesh (accession) 18 December</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">19 May 2005</Entry><Entry>Party</Entry></Row><Row><Entry>Barbados (accession) 5 April</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">19 May 2005</Entry><Entry>Party</Entry></Row><Row><Entry>Belgium (accession) 27 February</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">27 May 2006</Entry><Entry>Party</Entry></Row><Row><Entry>Belize (accession) 14 June</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">14 Sep 2007</Entry><Entry>Party</Entry></Row><Row><Entry>Benin (accession) 18 January</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">18 Apr 2007</Entry><Entry>Party</Entry></Row><Row><Entry>Brazil (accession) 23 February</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">23 May 2010</Entry><Entry>Party</Entry></Row><Row><Entry>Bulgaria (accession) 3 December</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">19 May 2005</Entry><Entry>Party</Entry></Row><Row><Entry>Canada (accession) 26 March</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">26 Jun 2010</Entry><Entry>Party</Entry></Row><Row><Entry>Chile (accession) 16 October</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">16 Jan 2007</Entry><Entry>Party</Entry></Row><Row><Entry>China (accession) 23 May</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">23 Aug 2006</Entry><Entry>Party</Entry></Row><Row><Entry>Congo (accession) 28 May</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">28 Aug 2015</Entry><Entry>Party</Entry></Row><Row><Entry>Cook Islands (accession) 12 March</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">12 Jun 2007</Entry><Entry>Party</Entry></Row><Row><Entry>Croatia (accession) 4 May</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">04 Aug 2005</Entry><Entry>Party</Entry></Row><Row><Entry>Cyprus (accession) 6 October</Entry><Entry doc="Entry into force date" /><Entry doc="Date of joining">19 May 2005</Entry><Entry>Party</Entry></Row></Rows></Tbody></Table></Participants></Treaty></Document>
+            <Row>
+              <Entry>Antigua and Barbuda (accession) 10 July</Entry>
+              <Entry doc="Entry into force date" />
+              <Entry doc="Date of joining">10 Oct 2007</Entry>
+              <Entry>Party</Entry>
+            </Row>
+            <Row>
+              <Entry>Argentina (accession) 8 June</Entry>
+              <Entry doc="Entry into force date" />
+              <Entry doc="Date of joining">08 Sep 2021</Entry>
+              <Entry>Party</Entry>
+            </Row>
+            <Row>
+              <Entry>Australia (accession) 7 August</Entry>
+              <Entry doc="Entry into force date" />
+              <Entry doc="Date of joining">07 Nov 2007</Entry>
+              <Entry>Party</Entry></Row>
+            <Row>
+              <Entry>Azerbaijan (accession) 16 July</Entry>
+              <Entry doc="Entry into force date" />
+              <Entry doc="Date of joining">19 May 2005</Entry>
+              <Entry>Party</Entry>
+            </Row>
+            <Row>
+              <Entry>Bahamas (accession) 8 November</Entry>
+              <Entry doc="Entry into force date" />
+              <Entry doc="Date of joining">19 May 2005</Entry>
+              <Entry>Party</Entry>
+            </Row>
+          </Rows>
+        </Tbody>
+      </Table>
+    </Participants>
+  </Treaty>
+</Document>
